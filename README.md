@@ -3,8 +3,9 @@ Greetings! 🖖
 I'm happy you found my Git page.
 
 🐻 - My name is Björn (means bear in swedish)<br/>
-🖥️ - Striving to be a frontend developer<br/>
-📚 - Currently I'm learning React.js<br/>
+🚀 - Striving to be a frontend developer<br/>
+📚 - Currently I'm learning React<br/>
+🖥️ - Favorite programming languages are JavaScript/TypeScript, Python, C++ and SQL <br/>
 📍 - Located in Stockholm, Sweden<br/>
 🔗 - www.severus.tech<br/>
 
