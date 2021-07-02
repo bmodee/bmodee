@@ -2,11 +2,11 @@ Greetings! 🖖
 
 I'm happy you found my Git page.
 
-🐻 - My name is Björn (means bear in swedish)
-🖥️ - Striving to be a frontend developer
-📚 - Currently I'm learning React.js
-📍 - Located in Stockholm, Sweden
-🔗 - www.severus.tech
+🐻 - My name is Björn (means bear in swedish)<br/>
+🖥️ - Striving to be a frontend developer<br/>
+📚 - Currently I'm learning React.js<br/>
+📍 - Located in Stockholm, Sweden<br/>
+🔗 - www.severus.tech<br/>
 
 
 
