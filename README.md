@@ -7,6 +7,7 @@ I'm happy you found my Git page.
 📚 - Currently I'm learning React<br/>
 🖥️ - Favorite programming languages are JavaScript/TypeScript, Python, C++ and SQL <br/>
 📍 - Located in Stockholm, Sweden<br/>
+🔗 - www.qte.se<br/>
 🔗 - www.severus.tech<br/>
 
 
